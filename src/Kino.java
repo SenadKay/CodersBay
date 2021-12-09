@@ -11,6 +11,7 @@ public class Kino {
 
         ArrayList<String[]> movies = GetAvailableMovies();
 
+        // das ist ein kommentar
         PrintAvailableMovies(movies);
 
         String userSelectedMovie = GetUserInput();
